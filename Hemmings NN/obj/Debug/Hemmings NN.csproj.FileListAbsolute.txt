@@ -1,0 +1,6 @@
+C:\Users\DNS\Desktop\Progi\C#\NeuralNetworks\Hemmings NN\Hemmings NN\bin\Debug\Hemmings NN.exe.config
+C:\Users\DNS\Desktop\Progi\C#\NeuralNetworks\Hemmings NN\Hemmings NN\bin\Debug\Hemmings NN.exe
+C:\Users\DNS\Desktop\Progi\C#\NeuralNetworks\Hemmings NN\Hemmings NN\bin\Debug\Hemmings NN.pdb
+C:\Users\DNS\Desktop\Progi\C#\NeuralNetworks\Hemmings NN\Hemmings NN\obj\Debug\Hemmings NN.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Desktop\Progi\C#\NeuralNetworks\Hemmings NN\Hemmings NN\obj\Debug\Hemmings NN.exe
+C:\Users\DNS\Desktop\Progi\C#\NeuralNetworks\Hemmings NN\Hemmings NN\obj\Debug\Hemmings NN.pdb
